@@ -1,0 +1,12 @@
+[2013-02-18 07:47:10] myapp.INFO: > GET / [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6e38eea"}
+[2013-02-18 07:47:10] myapp.DEBUG: Test! [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6e38eea"}
+[2013-02-18 07:47:10] myapp.INFO: < 200 [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6e38eea"}
+[2013-02-18 07:47:11] myapp.INFO: > GET / [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6f0839c"}
+[2013-02-18 07:47:11] myapp.DEBUG: Test! [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6f0839c"}
+[2013-02-18 07:47:11] myapp.INFO: < 200 [] {"token":"ruduf2eod4rssodbal04aqe7a6-e6f0839c"}
+[2013-02-18 07:47:19] myapp.INFO: > GET / [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7778130"}
+[2013-02-18 07:47:19] myapp.DEBUG: Test! [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7778130"}
+[2013-02-18 07:47:19] myapp.INFO: < 200 [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7778130"}
+[2013-02-18 07:47:21] myapp.INFO: > GET / [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7925963"}
+[2013-02-18 07:47:21] myapp.DEBUG: Test! [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7925963"}
+[2013-02-18 07:47:21] myapp.INFO: < 200 [] {"token":"ruduf2eod4rssodbal04aqe7a6-e7925963"}
